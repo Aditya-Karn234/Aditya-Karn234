@@ -26,8 +26,7 @@ ETL · Data Processing · SQL Analytics
 
 ## Featured Projects
 
-### Tender Intelligence Platform
-Government tender intelligence platform built around a Python data-ingestion pipeline, PostgreSQL database, Express REST API, and React dashboard.
+
 
 ### Air Altura
 Full-stack airline booking system using Node.js microservices, Redis, RabbitMQ, MySQL, and Docker.
@@ -37,6 +36,9 @@ Peer-to-peer file transfer system combining a Node.js control plane with a C++ t
 
 ### StudySync
 AI-powered learning platform using RAG, vector search, Node.js, and MongoDB.
+
+### Tender Intelligence Platform
+Government tender intelligence platform built around a Python data-ingestion pipeline, PostgreSQL database, Express REST API, and React dashboard.
 
 ## Currently Interested In
 
